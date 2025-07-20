@@ -1,0 +1,29 @@
+# Maven build folder
+/target/
+
+# Logs
+*.log
+
+
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+
+# Docker
+**/docker-compose.override.yml
+.env
+
+# Java
+*.class
+
+
