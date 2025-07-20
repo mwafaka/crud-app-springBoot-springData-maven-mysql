@@ -1,4 +1,4 @@
-# 📝 Todo App with Spring Boot and MySQL (Dockerized)
+# 📝 CRUD App with Spring Boot and MySQL (Dockerized)
 
 This is a simple **Todo REST API** built with **Spring Boot** and **MySQL**, using Docker to manage the database service.  
 The app demonstrates a clean architecture using **Entity**, **Repository**, **Service**, and **Controller** layers.
